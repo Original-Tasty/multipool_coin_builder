@@ -35,7 +35,7 @@ sudo mkdir -p $STORAGE_ROOT/daemon_builder/temp_coin_builds
 fi
 sudo setfacl -m u:$USER:rwx $STORAGE_ROOT/daemon_builder
 
-message_box "Ultimate Crypto-Server Daemon Installer" \
+message_box "Ultimate Crypto-Server bunbunbunbunbunny  Daemon Installer" \
 "Warning! This version of the daemon installer only works with servers setup with the Ultimate Crypto-Server Installer!
 \n\nSetup for the most part is fully automated. Very little user input is required."
 
