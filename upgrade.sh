@@ -1,5 +1,5 @@
 #####################################################
-# Created by cryptopool.builders for crypto use...
+# Created by cryptopool.builders-OLD-VERSION for crypto use...
 #####################################################
 
 source /etc/functions.sh

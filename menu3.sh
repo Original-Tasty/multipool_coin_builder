@@ -1,6 +1,6 @@
 #####################################################
 # Source code https://github.com/end222/pacmenu
-# Updated by cryptopool.builders for crypto use...
+# Updated by cryptopool.builders-OLD-VERSION for crypto use...
 #####################################################
 
 source /etc/functions.sh
